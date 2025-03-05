@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054471089058",
+    "project_id": "qibla-8a330",
+    "storage_bucket": "qibla-8a330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054471089058:android:7ab4411c3dc6f219afe0fb",
+        "android_client_info": {
+          "package_name": "com.example.qibla_compass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXzeK55INH1W9dHIGov1ZBWSyOuOTp5_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
